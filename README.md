@@ -65,3 +65,6 @@
 
         }
       });
+
+/assets/poupou.png
+
