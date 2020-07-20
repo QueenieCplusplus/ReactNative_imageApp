@@ -68,3 +68,5 @@
 
 /assets/poupou.png
 
+  https://github.com/QueenieCplusplus/ReactNative_imageApp/tree/master/assets
+
