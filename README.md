@@ -76,9 +76,22 @@
   
   add <link src/> to public/index.html 
   
-  add render div to compoent (class or func)
+      <!DOCTYPE html>
+       <html lang="en">
+       <head>
+       <meta charset="utf-8" />
+    
+       <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+       <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+       <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+       
+         ....
+       
+       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   
-  demo : see UIapp and start app in web browsing http://localhost:3001/ks-w3css
+  add render <div/> to compoent (class or func)
   
-  https://github.com/QueenieCplusplus/UI_app/
+  demo : see UIapp   https://github.com/QueenieCplusplus/UI_app/ and start app in web browsing http://localhost:3001/ks-w3css
+  
+
 
