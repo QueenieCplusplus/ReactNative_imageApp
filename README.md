@@ -77,4 +77,6 @@
   add <link src/> to public/index.html 
   
   add render div to compoent (class or func)
+  
+  demo : see UIapp and start app in web browsing http://localhost:3001/ks-w3css
 
