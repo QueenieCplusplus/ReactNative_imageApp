@@ -70,4 +70,11 @@
 /assets/poupou.png
 
   https://github.com/QueenieCplusplus/ReactNative_imageApp/tree/master/assets
+  
+  
+  # Image with W3 Css Style
+  
+  add <link src/> to public/index.html 
+  
+  add render div to compoent (class or func)
 
